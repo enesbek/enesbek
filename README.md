@@ -22,6 +22,4 @@ I'm bachelor degree computer engineering student in Istanbul.
   <img src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/google-cloud/google-cloud.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/java/java.png" alt="aws" width="60" height="60"/>
-  <img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="aws" width="60" height="60"/>
-  <img src="https://github.com/github/explore/raw/main/topics/c/c.png" alt="aws" width="60" height="60"/>
 </p>
