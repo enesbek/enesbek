@@ -1,8 +1,8 @@
-### Hi there 👋 I'm ENES
+### Hi there 👋 I'm ENES BEK
 
-I'm bachelor degree computer engineering student in Istanbul.
+I graduated from University with a Bachelors Degree in Computer Engineering, and now I am currently develop myself in field.
 
-- 🔭 I’m currently working on Vue.js and Go.
+- 🔭 I’m developing myself in Frontend Development and learning JS framework(Vue.js) and library(React).
 - 🔭 Learning TDD.
 - 📫 How to reach me: enes.bek.93@gmail.com
 
