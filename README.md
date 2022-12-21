@@ -23,4 +23,5 @@ I graduated from University with a Bachelors Degree in Computer Engineering, and
   <img src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/google-cloud/google-cloud.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/java/java.png" alt="aws" width="60" height="60"/>
+  <img src="https://github.com/github/explore/raw/main/topics/sass/sass.png" alt="aws" width="60" height="60"/>
 </p>
