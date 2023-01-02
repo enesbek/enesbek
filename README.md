@@ -7,6 +7,8 @@ I graduated from University with a Bachelors Degree in Computer Engineering, and
 - 📫 How to reach me: enes.bek.93@gmail.com
 - Software is art.
 
+My first medium article: https://medium.com/@enes.bek.93/authorization-with-metamask-fccd324e620c
+
 <p align="left">
   <img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="aws" width="60" height="60"/>
