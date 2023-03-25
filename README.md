@@ -5,7 +5,6 @@ I graduated from University with a Bachelors Degree in Computer Engineering, and
 - 🔭 I’m developing myself in Frontend Development and learning JS framework(Vue.js) and library(React).
 - 🔭 Learning TDD.
 - 📫 How to reach me: enes.bek.93@gmail.com
-- Software is art.
 
 My first medium article: https://medium.com/@enes.bek.93/authorization-with-metamask-fccd324e620c
 
