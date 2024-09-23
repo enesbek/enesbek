@@ -1,14 +1,10 @@
 ### Hi there 👋 I'm ENES BEK
 
-I graduated from University with a Bachelors Degree in Computer Engineering, and now I am currently develop myself in field.
+I am a Frontend Engineer with a Bachelor's Degree in Computer Engineering. I continuously improve my skills, particularly in frontend technologies.
 
-- 🔭 I’m developing myself in Frontend Development and learning JS framework(Vue.js) and library(React).
-- 🔭 Learning TDD.
-- 📫 How to reach me: enes.bek.93@gmail.com
+- 🔭 I’m currently developing my expertise in Frontend Development, focusing on React.js and Vue.js, while deepening my knowledge of JavaScript, TypeScript, and Node.js.
 
-My first medium article: https://medium.com/@enes.bek.93/authorization-with-metamask-fccd324e620c
-
-
+📫 How to reach me: enes.bek.93@gmail.com
 
 <p align="left">
   <img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="aws" width="60" height="60"/>
