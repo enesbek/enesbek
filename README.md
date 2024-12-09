@@ -10,8 +10,9 @@ I am a Frontend Engineer with a Bachelor's Degree in Computer Engineering. I con
   <img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="aws" width="60" height="60"/>
-  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" alt="aws" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="aws" width="60" height="60"/>
+  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/raw/main/topics/tailwind/tailwind.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" alt="aws" width="60" height="60"/>
   <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" alt="aws" width="60" height="60"/>
